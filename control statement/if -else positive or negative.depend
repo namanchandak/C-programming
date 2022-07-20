@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639231203 source:d:\c language\ternary operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1639310822 source:d:\c language\control statement\main.c
+	<stdio.h>
+	<stdlib.h>
+

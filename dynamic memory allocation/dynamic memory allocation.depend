@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640789825 source:d:\c language\dynamic memory allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
